@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying **ASIR (Administración de Sistemas Informáticos en Red)** and learning **advanced network management, virtualization, and IT security**.  
 - 👯 I’m looking to collaborate on **server management and infrastructure projects**.  
 - 💬 Ask me about **Windows Server, Linux, networking, virtualization, and automation with Bash/PowerShell**.  
-- 📫 How to reach me: **email: tuemail@ejemplo.com**  
+- 📫 How to reach me: **email: mariosangut@gmail.com**  
 
 ### 🛠️ Skills
 

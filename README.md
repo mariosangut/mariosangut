@@ -30,7 +30,7 @@ Especializado en la automatización de infraestructuras, despliegues cloud-nativ
 - Warp Terminal, VS Code, Wiki.js.
 
 Puedes consultar la documentación técnica de mi infraestructura, mi wiki interna y otros proyectos en:
-👉 **[mariosangut.com](https://mariosangut.com)**
+**[mariosangut.com](https://mariosangut.com)**
 
 ## Contacto
 - **Portfolio & Documentación:** [mariosangut.com](https://mariosangut.com)
